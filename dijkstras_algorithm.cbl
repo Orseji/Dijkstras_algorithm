@@ -1,7 +1,7 @@
 *>****************************************************************
 *> Author: OS
 *> Date: 181012
-*> Purpose: Djikstra Algorithm
+*> Purpose: Dijkstra's Algorithm
 *> Tectonics: cobc
 *>****************************************************************
 
@@ -21,7 +21,7 @@
 *> F|0|0|0|2|2|0|
 *> -+-+-+-+-+-+-+
 IDENTIFICATION DIVISION.
-PROGRAM-ID. djikstrasAlgorithm.
+PROGRAM-ID. dijkstras_algorithm.
 DATA DIVISION.
 FILE SECTION.
 WORKING-STORAGE SECTION.
